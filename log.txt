@@ -1,0 +1,492 @@
+﻿14:20:12 Запрос на копирование директории C:/AppServ/www/table!
+14:20:17 Копирование файлов!
+14:20:17 Директория disk:/backup/web/table не найдена! Создание директории
+14:20:19 Директория disk:/backup/web/table успешно создана!
+14:20:19 Копирование файла C:/AppServ/www/table/admin.php
+14:20:22 Файл C:/AppServ/www/table/admin.php скопирован!
+14:20:22 Копирование файла C:/AppServ/www/table/config.php
+14:20:24 Файл C:/AppServ/www/table/config.php скопирован!
+14:20:24 Копирование файла C:/AppServ/www/table/edit.php
+14:20:26 Файл C:/AppServ/www/table/edit.php скопирован!
+14:20:26 Копирование файла C:/AppServ/www/table/IKBSP_1_kurs_2_sem (2).xls
+14:20:32 Файл C:/AppServ/www/table/IKBSP_1_kurs_2_sem (2).xls скопирован!
+14:20:32 Копирование файла C:/AppServ/www/table/IKBSP_1_kurs_2_sem.xls
+14:20:37 Файл C:/AppServ/www/table/IKBSP_1_kurs_2_sem.xls скопирован!
+14:20:37 Копирование файла C:/AppServ/www/table/index.php
+14:20:39 Файл C:/AppServ/www/table/index.php скопирован!
+14:20:39 Копирование файла C:/AppServ/www/table/logo.png
+14:20:42 Файл C:/AppServ/www/table/logo.png скопирован!
+14:20:42 Копирование файла C:/AppServ/www/table/raspisanie.sql
+14:20:53 Файл C:/AppServ/www/table/raspisanie.sql скопирован!
+14:20:53 Копирование файла C:/AppServ/www/table/reader.php
+14:20:55 Файл C:/AppServ/www/table/reader.php скопирован!
+14:20:55 Копирование файла C:/AppServ/www/table/template.php
+14:20:58 Файл C:/AppServ/www/table/template.php скопирован!
+14:20:58 Копирование файла C:/AppServ/www/table/upload_form.php
+14:21:01 Файл C:/AppServ/www/table/upload_form.php скопирован!
+14:21:01 Копирование файла C:/AppServ/www/table/.idea/dataSources.local.xml
+14:21:09 Файл C:/AppServ/www/table/.idea/dataSources.local.xml скопирован!
+14:21:09 Копирование файла C:/AppServ/www/table/.idea/dataSources.xml
+14:21:12 Файл C:/AppServ/www/table/.idea/dataSources.xml скопирован!
+14:21:12 Копирование файла C:/AppServ/www/table/.idea/modules.xml
+14:21:15 Файл C:/AppServ/www/table/.idea/modules.xml скопирован!
+14:21:15 Копирование файла C:/AppServ/www/table/.idea/table.iml
+14:21:19 Файл C:/AppServ/www/table/.idea/table.iml скопирован!
+14:21:19 Копирование файла C:/AppServ/www/table/.idea/workspace.xml
+14:21:21 Файл C:/AppServ/www/table/.idea/workspace.xml скопирован!
+14:21:22 Копирование файла C:/AppServ/www/table/.idea/dataSources/b2b6cb58-ebd4-4468-8172-91ced5c90562.xml
+14:21:25 Файл C:/AppServ/www/table/.idea/dataSources/b2b6cb58-ebd4-4468-8172-91ced5c90562.xml скопирован!
+14:21:25 Копирование файла C:/AppServ/www/table/css/admin.css
+14:21:29 Файл C:/AppServ/www/table/css/admin.css скопирован!
+14:21:29 Копирование файла C:/AppServ/www/table/css/Roboto-Regular.ttf
+14:21:34 Файл C:/AppServ/www/table/css/Roboto-Regular.ttf скопирован!
+14:21:34 Копирование файла C:/AppServ/www/table/css/style.css
+14:21:37 Файл C:/AppServ/www/table/css/style.css скопирован!
+14:21:37 Копирование файла C:/AppServ/www/table/excel/oleread.inc
+14:21:41 Файл C:/AppServ/www/table/excel/oleread.inc скопирован!
+14:21:41 Копирование файла C:/AppServ/www/table/excel/reader.php
+14:21:45 Файл C:/AppServ/www/table/excel/reader.php скопирован!
+14:21:45 Копирование завершено!11:45:59 Запрос на копирование директории D:/univer/19702/3.2!
+11:46:06 Копирование файлов!
+11:46:07 Директория disk:/backup/19702/3.2 не найдена! Создание директории
+11:46:10 Директория disk:/backup/19702/3.2 успешно создана!
+11:46:10 Копирование файла D:/univer/19702/3.2/3.2.1.py
+11:46:15 Файл D:/univer/19702/3.2/3.2.1.py скопирован!
+11:46:15 Копирование файла D:/univer/19702/3.2/3.2.10.py
+11:46:18 Файл D:/univer/19702/3.2/3.2.10.py скопирован!
+11:46:18 Копирование файла D:/univer/19702/3.2/3.2.11.py
+11:46:22 Файл D:/univer/19702/3.2/3.2.11.py скопирован!
+11:46:22 Копирование файла D:/univer/19702/3.2/3.2.2.py
+11:46:25 Файл D:/univer/19702/3.2/3.2.2.py скопирован!
+11:46:26 Копирование файла D:/univer/19702/3.2/3.2.3.py
+11:46:28 Файл D:/univer/19702/3.2/3.2.3.py скопирован!
+11:46:28 Копирование файла D:/univer/19702/3.2/3.2.4.py
+11:46:32 Файл D:/univer/19702/3.2/3.2.4.py скопирован!
+11:46:32 Копирование файла D:/univer/19702/3.2/3.2.5.py
+11:46:35 Файл D:/univer/19702/3.2/3.2.5.py скопирован!
+11:46:35 Копирование файла D:/univer/19702/3.2/3.2.6.py
+11:46:38 Файл D:/univer/19702/3.2/3.2.6.py скопирован!
+11:46:38 Копирование файла D:/univer/19702/3.2/3.2.7.py
+11:46:41 Файл D:/univer/19702/3.2/3.2.7.py скопирован!
+11:46:41 Копирование файла D:/univer/19702/3.2/3.2.8.py
+11:46:44 Файл D:/univer/19702/3.2/3.2.8.py скопирован!
+11:46:44 Копирование файла D:/univer/19702/3.2/3.2.9.py
+11:46:48 Файл D:/univer/19702/3.2/3.2.9.py скопирован!
+11:46:48 Копирование завершено!
+22:31:33 Произошла ошибка: 'test'
+01.01.1900 %H:35:13 Запрос на копирование директории C:/AppServ/www/social!
+01.01.1900 22:37:16 Запрос на копирование директории C:/AppServ/www/social!
+29.09.2019 22:37:43 Запрос на копирование директории C:/AppServ/www/social!
+29.09.2019 22:39:31 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 22:39:39 Копирование файлов!
+29.09.2019 22:39:39 Директория disk:/backup/web/w2b не найдена! Создание директории
+29.09.2019 22:39:41 Директория disk:/backup/web/w2b успешно создана!
+29.09.2019 22:39:41 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 22:39:43 Файл C:/AppServ/www/w2b/index.php скопирован!
+29.09.2019 22:39:43 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 22:39:46 Файл C:/AppServ/www/w2b/.idea/misc.xml скопирован!
+29.09.2019 22:39:46 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 22:39:47 Файл C:/AppServ/www/w2b/.idea/modules.xml скопирован!
+29.09.2019 22:39:47 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 22:39:50 Файл C:/AppServ/www/w2b/.idea/w2b.iml скопирован!
+29.09.2019 22:39:50 Копирование файла C:/AppServ/www/w2b/.idea/workspace.xml
+29.09.2019 22:39:52 Файл C:/AppServ/www/w2b/.idea/workspace.xml скопирован!
+29.09.2019 22:39:52 Копирование файла C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml
+29.09.2019 22:39:55 Файл C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml скопирован!
+29.09.2019 22:39:55 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css
+29.09.2019 22:39:57 Файл C:/AppServ/www/w2b/css/bootstrap-grid.css скопирован!
+29.09.2019 22:39:57 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css.map
+29.09.2019 22:40:00 Файл C:/AppServ/www/w2b/css/bootstrap-grid.css.map скопирован!
+29.09.2019 22:40:00 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css
+29.09.2019 22:40:02 Файл C:/AppServ/www/w2b/css/bootstrap-grid.min.css скопирован!
+29.09.2019 22:40:02 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map
+29.09.2019 22:40:05 Файл C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map скопирован!
+29.09.2019 22:40:05 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css
+29.09.2019 22:40:08 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.css скопирован!
+29.09.2019 22:40:08 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css.map
+29.09.2019 22:40:11 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.css.map скопирован!
+29.09.2019 22:40:11 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css
+29.09.2019 22:40:15 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.min.css скопирован!
+29.09.2019 22:40:15 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css.map
+29.09.2019 22:40:17 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.min.css.map скопирован!
+29.09.2019 22:40:17 Копирование файла C:/AppServ/www/w2b/css/bootstrap.css
+29.09.2019 22:40:19 Файл C:/AppServ/www/w2b/css/bootstrap.css скопирован!
+29.09.2019 22:40:19 Копирование файла C:/AppServ/www/w2b/css/bootstrap.css.map
+29.09.2019 22:40:21 Файл C:/AppServ/www/w2b/css/bootstrap.css.map скопирован!
+29.09.2019 22:40:21 Копирование файла C:/AppServ/www/w2b/css/bootstrap.min.css
+29.09.2019 22:40:23 Файл C:/AppServ/www/w2b/css/bootstrap.min.css скопирован!
+29.09.2019 22:40:23 Копирование файла C:/AppServ/www/w2b/css/bootstrap.min.css.map
+29.09.2019 22:40:25 Файл C:/AppServ/www/w2b/css/bootstrap.min.css.map скопирован!
+29.09.2019 22:40:25 Копирование файла C:/AppServ/www/w2b/css/main.css
+29.09.2019 22:40:28 Файл C:/AppServ/www/w2b/css/main.css скопирован!
+29.09.2019 22:40:28 Копирование файла C:/AppServ/www/w2b/fonts/Comfortaa.ttf
+29.09.2019 22:40:31 Файл C:/AppServ/www/w2b/fonts/Comfortaa.ttf скопирован!
+29.09.2019 22:40:31 Копирование файла C:/AppServ/www/w2b/fonts/Helvetica.ttf
+29.09.2019 22:40:33 Файл C:/AppServ/www/w2b/fonts/Helvetica.ttf скопирован!
+29.09.2019 22:40:33 Копирование файла C:/AppServ/www/w2b/img/calendar.svg
+29.09.2019 22:40:36 Файл C:/AppServ/www/w2b/img/calendar.svg скопирован!
+29.09.2019 22:40:36 Копирование файла C:/AppServ/www/w2b/img/default_photo.svg
+29.09.2019 22:40:46 Файл C:/AppServ/www/w2b/img/default_photo.svg скопирован!
+29.09.2019 22:40:46 Копирование файла C:/AppServ/www/w2b/img/dislike.svg
+29.09.2019 22:40:49 Файл C:/AppServ/www/w2b/img/dislike.svg скопирован!
+29.09.2019 22:40:49 Копирование файла C:/AppServ/www/w2b/img/hse_logo.png
+29.09.2019 22:40:57 Файл C:/AppServ/www/w2b/img/hse_logo.png скопирован!
+29.09.2019 22:40:57 Копирование файла C:/AppServ/www/w2b/img/like.svg
+29.09.2019 22:40:59 Файл C:/AppServ/www/w2b/img/like.svg скопирован!
+29.09.2019 22:40:59 Копирование файла C:/AppServ/www/w2b/img/map.svg
+29.09.2019 22:41:02 Файл C:/AppServ/www/w2b/img/map.svg скопирован!
+29.09.2019 22:41:02 Копирование файла C:/AppServ/www/w2b/img/mfti_logo.png
+29.09.2019 22:41:05 Файл C:/AppServ/www/w2b/img/mfti_logo.png скопирован!
+29.09.2019 22:41:05 Копирование файла C:/AppServ/www/w2b/img/mirea_logo.png
+29.09.2019 22:41:07 Файл C:/AppServ/www/w2b/img/mirea_logo.png скопирован!
+29.09.2019 22:41:07 Копирование файла C:/AppServ/www/w2b/img/person.svg
+29.09.2019 22:41:10 Файл C:/AppServ/www/w2b/img/person.svg скопирован!
+29.09.2019 22:41:10 Копирование файла C:/AppServ/www/w2b/img/sap.png
+29.09.2019 22:41:12 Файл C:/AppServ/www/w2b/img/sap.png скопирован!
+29.09.2019 22:41:12 Копирование файла C:/AppServ/www/w2b/img/smaile.svg
+29.09.2019 22:41:14 Файл C:/AppServ/www/w2b/img/smaile.svg скопирован!
+29.09.2019 22:41:14 Копирование файла C:/AppServ/www/w2b/img/tile_img1.jpg
+29.09.2019 22:41:17 Файл C:/AppServ/www/w2b/img/tile_img1.jpg скопирован!
+29.09.2019 22:41:17 Копирование файла C:/AppServ/www/w2b/img/tile_img2.jpg
+29.09.2019 22:41:20 Файл C:/AppServ/www/w2b/img/tile_img2.jpg скопирован!
+29.09.2019 22:41:20 Копирование файла C:/AppServ/www/w2b/img/user_photo.jpg
+29.09.2019 22:41:22 Файл C:/AppServ/www/w2b/img/user_photo.jpg скопирован!
+29.09.2019 22:41:22 Копирование файла C:/AppServ/www/w2b/img/vacancy.PNG
+29.09.2019 22:41:25 Файл C:/AppServ/www/w2b/img/vacancy.PNG скопирован!
+29.09.2019 22:41:25 Копирование файла C:/AppServ/www/w2b/img/company_img/1.jpg
+29.09.2019 22:41:27 Файл C:/AppServ/www/w2b/img/company_img/1.jpg скопирован!
+29.09.2019 22:41:27 Копирование файла C:/AppServ/www/w2b/img/company_img/2.jpeg
+29.09.2019 22:41:30 Файл C:/AppServ/www/w2b/img/company_img/2.jpeg скопирован!
+29.09.2019 22:41:30 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.js
+29.09.2019 22:41:32 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.js скопирован!
+29.09.2019 22:41:32 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.js.map
+29.09.2019 22:41:34 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.js.map скопирован!
+29.09.2019 22:41:34 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.min.js
+29.09.2019 22:41:36 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.min.js скопирован!
+29.09.2019 22:41:36 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.min.js.map
+29.09.2019 22:41:38 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.min.js.map скопирован!
+29.09.2019 22:41:38 Копирование файла C:/AppServ/www/w2b/js/bootstrap.min.js
+29.09.2019 22:41:45 Файл C:/AppServ/www/w2b/js/bootstrap.min.js скопирован!
+29.09.2019 22:41:45 Копирование файла C:/AppServ/www/w2b/js/jquery.js
+29.09.2019 22:41:48 Файл C:/AppServ/www/w2b/js/jquery.js скопирован!
+29.09.2019 22:41:48 Копирование файла C:/AppServ/www/w2b/js/main.js
+29.09.2019 22:41:50 Файл C:/AppServ/www/w2b/js/main.js скопирован!
+29.09.2019 22:41:50 Копирование файла C:/AppServ/www/w2b/template/company/company.php
+29.09.2019 22:41:53 Файл C:/AppServ/www/w2b/template/company/company.php скопирован!
+29.09.2019 22:41:53 Копирование файла C:/AppServ/www/w2b/template/error_pages/forbidden.php
+29.09.2019 22:41:56 Файл C:/AppServ/www/w2b/template/error_pages/forbidden.php скопирован!
+29.09.2019 22:41:56 Копирование файла C:/AppServ/www/w2b/template/lists/education_list.php
+29.09.2019 22:41:59 Файл C:/AppServ/www/w2b/template/lists/education_list.php скопирован!
+29.09.2019 22:41:59 Копирование файла C:/AppServ/www/w2b/template/lists/events_list.php
+29.09.2019 22:42:03 Файл C:/AppServ/www/w2b/template/lists/events_list.php скопирован!
+29.09.2019 22:42:03 Копирование файла C:/AppServ/www/w2b/template/lists/organisation_list.php
+29.09.2019 22:42:05 Файл C:/AppServ/www/w2b/template/lists/organisation_list.php скопирован!
+29.09.2019 22:42:05 Копирование файла C:/AppServ/www/w2b/template/lists/person_list.php
+29.09.2019 22:42:07 Файл C:/AppServ/www/w2b/template/lists/person_list.php скопирован!
+29.09.2019 22:42:07 Копирование файла C:/AppServ/www/w2b/template/lists/profession_list.php
+29.09.2019 22:42:10 Файл C:/AppServ/www/w2b/template/lists/profession_list.php скопирован!
+29.09.2019 22:42:10 Копирование файла C:/AppServ/www/w2b/template/profession/profession.php
+29.09.2019 22:42:13 Файл C:/AppServ/www/w2b/template/profession/profession.php скопирован!
+29.09.2019 22:42:13 Копирование файла C:/AppServ/www/w2b/template/profile/person.php
+29.09.2019 22:42:15 Файл C:/AppServ/www/w2b/template/profile/person.php скопирован!
+29.09.2019 22:42:15 Копирование файла C:/AppServ/www/w2b/template/standarts/standart.php
+29.09.2019 22:42:19 Файл C:/AppServ/www/w2b/template/standarts/standart.php скопирован!
+29.09.2019 22:42:19 Копирование завершено!
+29.09.2019 22:54:51 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 22:54:55 Копирование файлов!
+29.09.2019 22:54:55 Директория disk:/backup/web/w2b не найдена! Создание директории
+29.09.2019 22:54:57 Директория disk:/backup/web/w2b успешно создана!
+29.09.2019 22:54:57 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 22:54:59 Файл C:/AppServ/www/w2b/index.php скопирован!
+29.09.2019 22:54:59 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 22:55:02 Файл C:/AppServ/www/w2b/.idea/misc.xml скопирован!
+29.09.2019 22:55:02 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 22:55:07 Файл C:/AppServ/www/w2b/.idea/modules.xml скопирован!
+29.09.2019 22:55:07 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 22:55:09 Файл C:/AppServ/www/w2b/.idea/w2b.iml скопирован!
+29.09.2019 22:55:09 Копирование файла C:/AppServ/www/w2b/.idea/workspace.xml
+29.09.2019 22:55:11 Файл C:/AppServ/www/w2b/.idea/workspace.xml скопирован!
+29.09.2019 22:55:11 Копирование файла C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml
+29.09.2019 22:55:14 Файл C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml скопирован!
+29.09.2019 22:55:14 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css
+29.09.2019 22:55:16 Файл C:/AppServ/www/w2b/css/bootstrap-grid.css скопирован!
+29.09.2019 22:55:16 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css.map
+29.09.2019 22:55:18 Файл C:/AppServ/www/w2b/css/bootstrap-grid.css.map скопирован!
+29.09.2019 22:55:18 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css
+29.09.2019 22:55:21 Файл C:/AppServ/www/w2b/css/bootstrap-grid.min.css скопирован!
+29.09.2019 22:55:21 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map
+29.09.2019 22:55:24 Файл C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map скопирован!
+29.09.2019 22:55:24 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css
+29.09.2019 22:55:26 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.css скопирован!
+29.09.2019 22:55:26 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css.map
+29.09.2019 22:55:31 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.css.map скопирован!
+29.09.2019 22:55:31 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css
+29.09.2019 22:55:34 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.min.css скопирован!
+29.09.2019 22:55:34 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css.map
+29.09.2019 22:55:37 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.min.css.map скопирован!
+29.09.2019 22:55:37 Копирование файла C:/AppServ/www/w2b/css/bootstrap.css
+29.09.2019 22:55:40 Файл C:/AppServ/www/w2b/css/bootstrap.css скопирован!
+29.09.2019 22:55:40 Копирование файла C:/AppServ/www/w2b/css/bootstrap.css.map
+29.09.2019 22:55:44 Файл C:/AppServ/www/w2b/css/bootstrap.css.map скопирован!
+29.09.2019 22:55:44 Копирование файла C:/AppServ/www/w2b/css/bootstrap.min.css
+29.09.2019 22:55:46 Файл C:/AppServ/www/w2b/css/bootstrap.min.css скопирован!
+29.09.2019 22:55:46 Копирование файла C:/AppServ/www/w2b/css/bootstrap.min.css.map
+29.09.2019 22:55:49 Файл C:/AppServ/www/w2b/css/bootstrap.min.css.map скопирован!
+29.09.2019 22:55:49 Копирование файла C:/AppServ/www/w2b/css/main.css
+29.09.2019 22:55:51 Файл C:/AppServ/www/w2b/css/main.css скопирован!
+29.09.2019 22:55:51 Копирование файла C:/AppServ/www/w2b/fonts/Comfortaa.ttf
+29.09.2019 22:55:54 Файл C:/AppServ/www/w2b/fonts/Comfortaa.ttf скопирован!
+29.09.2019 22:55:54 Копирование файла C:/AppServ/www/w2b/fonts/Helvetica.ttf
+29.09.2019 22:55:57 Файл C:/AppServ/www/w2b/fonts/Helvetica.ttf скопирован!
+29.09.2019 22:55:57 Копирование файла C:/AppServ/www/w2b/img/calendar.svg
+29.09.2019 22:56:01 Файл C:/AppServ/www/w2b/img/calendar.svg скопирован!
+29.09.2019 22:56:01 Копирование файла C:/AppServ/www/w2b/img/default_photo.svg
+29.09.2019 22:56:05 Файл C:/AppServ/www/w2b/img/default_photo.svg скопирован!
+29.09.2019 22:56:05 Копирование файла C:/AppServ/www/w2b/img/dislike.svg
+29.09.2019 22:56:07 Файл C:/AppServ/www/w2b/img/dislike.svg скопирован!
+29.09.2019 22:56:07 Копирование файла C:/AppServ/www/w2b/img/hse_logo.png
+29.09.2019 22:56:09 Файл C:/AppServ/www/w2b/img/hse_logo.png скопирован!
+29.09.2019 22:56:09 Копирование файла C:/AppServ/www/w2b/img/like.svg
+29.09.2019 22:56:10 Файл C:/AppServ/www/w2b/img/like.svg скопирован!
+29.09.2019 22:56:10 Копирование файла C:/AppServ/www/w2b/img/map.svg
+29.09.2019 22:56:13 Файл C:/AppServ/www/w2b/img/map.svg скопирован!
+29.09.2019 22:56:13 Копирование файла C:/AppServ/www/w2b/img/mfti_logo.png
+29.09.2019 22:56:15 Файл C:/AppServ/www/w2b/img/mfti_logo.png скопирован!
+29.09.2019 22:56:15 Копирование файла C:/AppServ/www/w2b/img/mirea_logo.png
+29.09.2019 22:56:16 Файл C:/AppServ/www/w2b/img/mirea_logo.png скопирован!
+29.09.2019 22:56:16 Копирование файла C:/AppServ/www/w2b/img/person.svg
+29.09.2019 22:56:19 Файл C:/AppServ/www/w2b/img/person.svg скопирован!
+29.09.2019 22:56:19 Копирование файла C:/AppServ/www/w2b/img/sap.png
+29.09.2019 22:56:22 Файл C:/AppServ/www/w2b/img/sap.png скопирован!
+29.09.2019 22:56:22 Копирование файла C:/AppServ/www/w2b/img/smaile.svg
+29.09.2019 22:56:24 Файл C:/AppServ/www/w2b/img/smaile.svg скопирован!
+29.09.2019 22:56:24 Копирование файла C:/AppServ/www/w2b/img/tile_img1.jpg
+29.09.2019 22:56:27 Файл C:/AppServ/www/w2b/img/tile_img1.jpg скопирован!
+29.09.2019 22:56:27 Копирование файла C:/AppServ/www/w2b/img/tile_img2.jpg
+29.09.2019 22:56:29 Файл C:/AppServ/www/w2b/img/tile_img2.jpg скопирован!
+29.09.2019 22:56:29 Копирование файла C:/AppServ/www/w2b/img/user_photo.jpg
+29.09.2019 22:56:31 Файл C:/AppServ/www/w2b/img/user_photo.jpg скопирован!
+29.09.2019 22:56:31 Копирование файла C:/AppServ/www/w2b/img/vacancy.PNG
+29.09.2019 22:56:35 Файл C:/AppServ/www/w2b/img/vacancy.PNG скопирован!
+29.09.2019 22:56:35 Копирование файла C:/AppServ/www/w2b/img/company_img/1.jpg
+29.09.2019 22:56:39 Файл C:/AppServ/www/w2b/img/company_img/1.jpg скопирован!
+29.09.2019 22:56:39 Копирование файла C:/AppServ/www/w2b/img/company_img/2.jpeg
+29.09.2019 22:56:42 Файл C:/AppServ/www/w2b/img/company_img/2.jpeg скопирован!
+29.09.2019 22:56:42 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.js
+29.09.2019 22:56:45 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.js скопирован!
+29.09.2019 22:56:45 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.js.map
+29.09.2019 22:56:47 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.js.map скопирован!
+29.09.2019 22:56:47 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.min.js
+29.09.2019 22:56:50 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.min.js скопирован!
+29.09.2019 22:56:50 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.min.js.map
+29.09.2019 22:56:52 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.min.js.map скопирован!
+29.09.2019 22:56:52 Копирование файла C:/AppServ/www/w2b/js/bootstrap.min.js
+29.09.2019 22:56:54 Файл C:/AppServ/www/w2b/js/bootstrap.min.js скопирован!
+29.09.2019 22:56:54 Копирование файла C:/AppServ/www/w2b/js/jquery.js
+29.09.2019 22:56:57 Файл C:/AppServ/www/w2b/js/jquery.js скопирован!
+29.09.2019 22:56:57 Копирование файла C:/AppServ/www/w2b/js/main.js
+29.09.2019 22:56:59 Файл C:/AppServ/www/w2b/js/main.js скопирован!
+29.09.2019 22:56:59 Копирование файла C:/AppServ/www/w2b/template/company/company.php
+29.09.2019 22:57:01 Файл C:/AppServ/www/w2b/template/company/company.php скопирован!
+29.09.2019 22:57:01 Копирование файла C:/AppServ/www/w2b/template/error_pages/forbidden.php
+29.09.2019 22:57:04 Файл C:/AppServ/www/w2b/template/error_pages/forbidden.php скопирован!
+29.09.2019 22:57:04 Копирование файла C:/AppServ/www/w2b/template/lists/education_list.php
+29.09.2019 22:57:07 Файл C:/AppServ/www/w2b/template/lists/education_list.php скопирован!
+29.09.2019 22:57:07 Копирование файла C:/AppServ/www/w2b/template/lists/events_list.php
+29.09.2019 22:57:09 Файл C:/AppServ/www/w2b/template/lists/events_list.php скопирован!
+29.09.2019 22:57:09 Копирование файла C:/AppServ/www/w2b/template/lists/organisation_list.php
+29.09.2019 22:57:11 Файл C:/AppServ/www/w2b/template/lists/organisation_list.php скопирован!
+29.09.2019 22:57:11 Копирование файла C:/AppServ/www/w2b/template/lists/person_list.php
+29.09.2019 22:57:14 Файл C:/AppServ/www/w2b/template/lists/person_list.php скопирован!
+29.09.2019 22:57:14 Копирование файла C:/AppServ/www/w2b/template/lists/profession_list.php
+29.09.2019 22:57:17 Файл C:/AppServ/www/w2b/template/lists/profession_list.php скопирован!
+29.09.2019 22:57:17 Копирование файла C:/AppServ/www/w2b/template/profession/profession.php
+29.09.2019 22:57:20 Файл C:/AppServ/www/w2b/template/profession/profession.php скопирован!
+29.09.2019 22:57:20 Копирование файла C:/AppServ/www/w2b/template/profile/person.php
+29.09.2019 22:57:23 Файл C:/AppServ/www/w2b/template/profile/person.php скопирован!
+29.09.2019 22:57:23 Копирование файла C:/AppServ/www/w2b/template/standarts/standart.php
+29.09.2019 22:57:26 Файл C:/AppServ/www/w2b/template/standarts/standart.php скопирован!
+29.09.2019 22:57:26 Копирование завершено!
+29.09.2019 23:03:14 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:03:17 Произошла ошибка: Can't pickle local object 'BackupManager.backup.<locals>.upload'
+29.09.2019 23:09:33 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:10:26 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:10:51 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:10:53 Копирование файлов!
+29.09.2019 23:10:54 Директория disk:/backup/web/w2b не найдена! Создание директории
+29.09.2019 23:10:56 Директория disk:/backup/web/w2b успешно создана!
+29.09.2019 23:10:56 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:10:57 Файл C:/AppServ/www/w2b/index.php скопирован!
+29.09.2019 23:10:57 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 23:11:00 Файл C:/AppServ/www/w2b/.idea/misc.xml скопирован!
+29.09.2019 23:11:00 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 23:11:02 Файл C:/AppServ/www/w2b/.idea/modules.xml скопирован!
+29.09.2019 23:11:02 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 23:11:08 Файл C:/AppServ/www/w2b/.idea/w2b.iml скопирован!
+29.09.2019 23:11:08 Копирование файла C:/AppServ/www/w2b/.idea/workspace.xml
+29.09.2019 23:11:11 Файл C:/AppServ/www/w2b/.idea/workspace.xml скопирован!
+29.09.2019 23:11:11 Копирование файла C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml
+29.09.2019 23:11:16 Файл C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml скопирован!
+29.09.2019 23:11:16 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css
+29.09.2019 23:11:18 Файл C:/AppServ/www/w2b/css/bootstrap-grid.css скопирован!
+29.09.2019 23:11:18 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css.map
+29.09.2019 23:11:21 Файл C:/AppServ/www/w2b/css/bootstrap-grid.css.map скопирован!
+29.09.2019 23:11:21 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css
+29.09.2019 23:11:23 Файл C:/AppServ/www/w2b/css/bootstrap-grid.min.css скопирован!
+29.09.2019 23:11:23 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map
+29.09.2019 23:11:25 Файл C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map скопирован!
+29.09.2019 23:11:25 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css
+29.09.2019 23:11:27 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.css скопирован!
+29.09.2019 23:11:27 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css.map
+29.09.2019 23:11:30 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.css.map скопирован!
+29.09.2019 23:11:30 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css
+29.09.2019 23:11:32 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.min.css скопирован!
+29.09.2019 23:11:32 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css.map
+29.09.2019 23:11:34 Файл C:/AppServ/www/w2b/css/bootstrap-reboot.min.css.map скопирован!
+29.09.2019 23:11:34 Копирование файла C:/AppServ/www/w2b/css/bootstrap.css
+29.09.2019 23:11:36 Файл C:/AppServ/www/w2b/css/bootstrap.css скопирован!
+29.09.2019 23:11:36 Копирование файла C:/AppServ/www/w2b/css/bootstrap.css.map
+29.09.2019 23:11:39 Файл C:/AppServ/www/w2b/css/bootstrap.css.map скопирован!
+29.09.2019 23:11:39 Копирование файла C:/AppServ/www/w2b/css/bootstrap.min.css
+29.09.2019 23:11:42 Файл C:/AppServ/www/w2b/css/bootstrap.min.css скопирован!
+29.09.2019 23:11:42 Копирование файла C:/AppServ/www/w2b/css/bootstrap.min.css.map
+29.09.2019 23:11:45 Файл C:/AppServ/www/w2b/css/bootstrap.min.css.map скопирован!
+29.09.2019 23:11:45 Копирование файла C:/AppServ/www/w2b/css/main.css
+29.09.2019 23:11:47 Файл C:/AppServ/www/w2b/css/main.css скопирован!
+29.09.2019 23:11:47 Копирование файла C:/AppServ/www/w2b/fonts/Comfortaa.ttf
+29.09.2019 23:11:50 Файл C:/AppServ/www/w2b/fonts/Comfortaa.ttf скопирован!
+29.09.2019 23:11:50 Копирование файла C:/AppServ/www/w2b/fonts/Helvetica.ttf
+29.09.2019 23:11:52 Файл C:/AppServ/www/w2b/fonts/Helvetica.ttf скопирован!
+29.09.2019 23:11:52 Копирование файла C:/AppServ/www/w2b/img/calendar.svg
+29.09.2019 23:11:54 Файл C:/AppServ/www/w2b/img/calendar.svg скопирован!
+29.09.2019 23:11:54 Копирование файла C:/AppServ/www/w2b/img/default_photo.svg
+29.09.2019 23:11:56 Файл C:/AppServ/www/w2b/img/default_photo.svg скопирован!
+29.09.2019 23:11:56 Копирование файла C:/AppServ/www/w2b/img/dislike.svg
+29.09.2019 23:12:00 Файл C:/AppServ/www/w2b/img/dislike.svg скопирован!
+29.09.2019 23:12:00 Копирование файла C:/AppServ/www/w2b/img/hse_logo.png
+29.09.2019 23:12:01 Файл C:/AppServ/www/w2b/img/hse_logo.png скопирован!
+29.09.2019 23:12:01 Копирование файла C:/AppServ/www/w2b/img/like.svg
+29.09.2019 23:12:03 Файл C:/AppServ/www/w2b/img/like.svg скопирован!
+29.09.2019 23:12:03 Копирование файла C:/AppServ/www/w2b/img/map.svg
+29.09.2019 23:12:05 Файл C:/AppServ/www/w2b/img/map.svg скопирован!
+29.09.2019 23:12:05 Копирование файла C:/AppServ/www/w2b/img/mfti_logo.png
+29.09.2019 23:12:07 Файл C:/AppServ/www/w2b/img/mfti_logo.png скопирован!
+29.09.2019 23:12:07 Копирование файла C:/AppServ/www/w2b/img/mirea_logo.png
+29.09.2019 23:12:09 Файл C:/AppServ/www/w2b/img/mirea_logo.png скопирован!
+29.09.2019 23:12:09 Копирование файла C:/AppServ/www/w2b/img/person.svg
+29.09.2019 23:12:11 Файл C:/AppServ/www/w2b/img/person.svg скопирован!
+29.09.2019 23:12:11 Копирование файла C:/AppServ/www/w2b/img/sap.png
+29.09.2019 23:12:13 Файл C:/AppServ/www/w2b/img/sap.png скопирован!
+29.09.2019 23:12:13 Копирование файла C:/AppServ/www/w2b/img/smaile.svg
+29.09.2019 23:12:16 Файл C:/AppServ/www/w2b/img/smaile.svg скопирован!
+29.09.2019 23:12:16 Копирование файла C:/AppServ/www/w2b/img/tile_img1.jpg
+29.09.2019 23:12:18 Файл C:/AppServ/www/w2b/img/tile_img1.jpg скопирован!
+29.09.2019 23:12:18 Копирование файла C:/AppServ/www/w2b/img/tile_img2.jpg
+29.09.2019 23:12:20 Файл C:/AppServ/www/w2b/img/tile_img2.jpg скопирован!
+29.09.2019 23:12:20 Копирование файла C:/AppServ/www/w2b/img/user_photo.jpg
+29.09.2019 23:12:23 Файл C:/AppServ/www/w2b/img/user_photo.jpg скопирован!
+29.09.2019 23:12:23 Копирование файла C:/AppServ/www/w2b/img/vacancy.PNG
+29.09.2019 23:12:26 Файл C:/AppServ/www/w2b/img/vacancy.PNG скопирован!
+29.09.2019 23:12:26 Копирование файла C:/AppServ/www/w2b/img/company_img/1.jpg
+29.09.2019 23:12:31 Файл C:/AppServ/www/w2b/img/company_img/1.jpg скопирован!
+29.09.2019 23:12:31 Копирование файла C:/AppServ/www/w2b/img/company_img/2.jpeg
+29.09.2019 23:12:33 Файл C:/AppServ/www/w2b/img/company_img/2.jpeg скопирован!
+29.09.2019 23:12:33 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.js
+29.09.2019 23:12:36 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.js скопирован!
+29.09.2019 23:12:36 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.js.map
+29.09.2019 23:12:39 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.js.map скопирован!
+29.09.2019 23:12:39 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.min.js
+29.09.2019 23:12:42 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.min.js скопирован!
+29.09.2019 23:12:42 Копирование файла C:/AppServ/www/w2b/js/bootstrap.bundle.min.js.map
+29.09.2019 23:12:45 Файл C:/AppServ/www/w2b/js/bootstrap.bundle.min.js.map скопирован!
+29.09.2019 23:12:45 Копирование файла C:/AppServ/www/w2b/js/bootstrap.min.js
+29.09.2019 23:12:47 Файл C:/AppServ/www/w2b/js/bootstrap.min.js скопирован!
+29.09.2019 23:12:47 Копирование файла C:/AppServ/www/w2b/js/jquery.js
+29.09.2019 23:12:49 Файл C:/AppServ/www/w2b/js/jquery.js скопирован!
+29.09.2019 23:12:49 Копирование файла C:/AppServ/www/w2b/js/main.js
+29.09.2019 23:12:52 Файл C:/AppServ/www/w2b/js/main.js скопирован!
+29.09.2019 23:12:52 Копирование файла C:/AppServ/www/w2b/template/company/company.php
+29.09.2019 23:13:30 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:13:31 Копирование файлов!
+29.09.2019 23:13:32 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:13:33 Произошла ошибка: No connection adapters were found for '{'message': 'Ресурс "disk:/backup/web/w2b/index.php" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/index.php" already exists.', 'error': 'DiskResourceAlreadyExistsError'}'
+29.09.2019 23:18:55 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:19:07 Копирование файлов!
+29.09.2019 23:20:00 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:21:55 Произошла ошибка: No connection adapters were found for '{'message': 'Ресурс "disk:/backup/web/w2b/index.php" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/index.php" already exists.', 'error': 'DiskResourceAlreadyExistsError'}'
+29.09.2019 23:22:35 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:22:37 Копирование файлов!
+29.09.2019 23:22:37 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:22:38 Произошла ошибка: No connection adapters were found for '{'message': 'Ресурс "disk:/backup/web/w2b/index.php" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/index.php" already exists.', 'error': 'DiskResourceAlreadyExistsError'}'
+29.09.2019 23:23:51 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:23:53 Копирование файлов!
+29.09.2019 23:23:53 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:23:54 Произошла ошибка: No connection adapters were found for '{'message': 'Ресурс "disk:/backup/web/w2b/index.php" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/index.php" already exists.', 'error': 'DiskResourceAlreadyExistsError'}'
+29.09.2019 23:27:34 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:27:36 Копирование файлов!
+29.09.2019 23:27:36 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:27:37 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 23:27:39 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 23:27:40 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 23:27:41 Копирование файла C:/AppServ/www/w2b/.idea/workspace.xml
+29.09.2019 23:27:43 Копирование файла C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml
+29.09.2019 23:27:44 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css
+29.09.2019 23:27:46 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css.map
+29.09.2019 23:27:47 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css
+29.09.2019 23:27:49 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.min.css.map
+29.09.2019 23:27:50 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css
+29.09.2019 23:27:51 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.css.map
+29.09.2019 23:27:52 Копирование файла C:/AppServ/www/w2b/css/bootstrap-reboot.min.css
+29.09.2019 23:28:43 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:28:45 Копирование файлов!
+29.09.2019 23:28:45 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:28:46 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 23:32:40 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:32:42 Копирование файлов!
+29.09.2019 23:32:42 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:32:43 Произошла ошибка: must be str, not bool
+29.09.2019 23:33:47 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:33:48 Копирование файлов!
+29.09.2019 23:33:49 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:33:50 Файл C:/AppServ/www/w2b/index.php скопирован!
+29.09.2019 23:33:50 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 23:33:51 Файл C:/AppServ/www/w2b/.idea/misc.xml скопирован!
+29.09.2019 23:33:51 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 23:33:52 Файл C:/AppServ/www/w2b/.idea/modules.xml скопирован!
+29.09.2019 23:33:52 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 23:33:53 Файл C:/AppServ/www/w2b/.idea/w2b.iml скопирован!
+29.09.2019 23:33:53 Копирование файла C:/AppServ/www/w2b/.idea/workspace.xml
+29.09.2019 23:33:54 Файл C:/AppServ/www/w2b/.idea/workspace.xml скопирован!
+29.09.2019 23:33:54 Копирование файла C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml
+29.09.2019 23:34:56 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:35:01 Копирование файлов!
+29.09.2019 23:35:01 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:35:02 Произошла ошибка: must be str, not dict
+29.09.2019 23:36:19 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:36:20 Копирование файлов!
+29.09.2019 23:36:21 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:36:22 Произошла ошибка: must be str, not dict
+29.09.2019 23:37:08 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:37:09 Копирование файлов!
+29.09.2019 23:37:10 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:37:11 {'message': 'Ресурс "disk:/backup/web/w2b/index.php" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/index.php" already exists.', 'error': 'DiskResourceAlreadyExistsError'}
+29.09.2019 23:37:11 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 23:37:12 {'message': 'Ресурс "disk:/backup/web/w2b/.idea/misc.xml" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/.idea/misc.xml" already exists.', 'error': 'DiskResourceAlreadyExistsError'}
+29.09.2019 23:37:12 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 23:37:13 {'message': 'Ресурс "disk:/backup/web/w2b/.idea/modules.xml" уже существует.', 'description': 'Resource "disk:/backup/web/w2b/.idea/modules.xml" already exists.', 'error': 'DiskResourceAlreadyExistsError'}
+29.09.2019 23:37:13 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 23:38:01 Запрос на копирование директории C:/AppServ/www/w2b!
+29.09.2019 23:38:03 Копирование файлов!
+29.09.2019 23:38:03 Копирование файла C:/AppServ/www/w2b/index.php
+29.09.2019 23:38:04 Ресурс "disk:/backup/web/w2b/index.php" уже существует.
+29.09.2019 23:38:04 Копирование файла C:/AppServ/www/w2b/.idea/misc.xml
+29.09.2019 23:38:05 Ресурс "disk:/backup/web/w2b/.idea/misc.xml" уже существует.
+29.09.2019 23:38:05 Копирование файла C:/AppServ/www/w2b/.idea/modules.xml
+29.09.2019 23:38:07 Ресурс "disk:/backup/web/w2b/.idea/modules.xml" уже существует.
+29.09.2019 23:38:07 Копирование файла C:/AppServ/www/w2b/.idea/w2b.iml
+29.09.2019 23:38:08 Ресурс "disk:/backup/web/w2b/.idea/w2b.iml" уже существует.
+29.09.2019 23:38:08 Копирование файла C:/AppServ/www/w2b/.idea/workspace.xml
+29.09.2019 23:38:09 Ресурс "disk:/backup/web/w2b/.idea/workspace.xml" уже существует.
+29.09.2019 23:38:09 Копирование файла C:/AppServ/www/w2b/.idea/inspectionProfiles/Project_Default.xml
+29.09.2019 23:38:11 Ресурс "disk:/backup/web/w2b/.idea/inspectionProfiles/Project_Default.xml" уже существует.
+29.09.2019 23:38:11 Копирование файла C:/AppServ/www/w2b/css/bootstrap-grid.css

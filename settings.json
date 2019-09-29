@@ -1,0 +1,23 @@
+{
+    "projects": {
+        "web": {
+            "folders": [
+                {
+                    "src": "C:/AppServ/www/w2b",
+                    "dest": "disk:/backup/web/w2b"
+                }
+            ],
+            "options": {
+                "template": false,
+                "confirm": true
+            }
+        }
+    },
+    "YandexDisk": {
+        "client_id": "41670418127d4bc4bcc761a84f8d6f77",
+        "date_of_receipt": "29/09/2019 22:39",
+        "client_secret": "1dbd3aefe4f747dc921deb6e2a1fcfb9",
+        "expires_in": 31536000,
+        "access_token": "AgAAAAAHzhf_AARpfI1oYjUSRkfHsPRlKdMCZ04"
+    }
+}
